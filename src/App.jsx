@@ -1,8 +1,8 @@
 function App() {
   return (
     <div>
-      <h1>Hello, React!</h1>
-      <p>hello world</p>
+      <h1>Hello, worlds!</h1>
+
       
     </div>
   )
