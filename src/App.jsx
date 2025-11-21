@@ -2,8 +2,7 @@ function App() {
   return (
     <div>
       <h1>Hello, worlds!</h1>
-<p>hello</p>
-      
+<p>test</p>      
     </div>
   )
 }
